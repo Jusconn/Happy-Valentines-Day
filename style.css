@@ -1,0 +1,43 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fc7373be;
+    color: #333;
+}
+
+.buttons .no {
+    display: inline-block;
+    margin-left: 22px;
+    justify-content: center;
+    align-items: center;
+    background-color: #d92929be;
+    font-size: 30px;
+    border-radius: 30%;
+}
+
+.buttons .yes {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: #d92929be;
+    font-size: 30px;
+    border-radius: 30%;
+}
+
+.hidden {
+    display: flex;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 30px;
+    background-color: #d92929be;
+    padding: 1px;
+    border-radius: 20px;
+}
+
+
